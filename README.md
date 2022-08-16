@@ -60,7 +60,7 @@ I live in Palembang, Indonesia. I've been learning to code for 1 years, after un
 </a>
 </div>
 
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
