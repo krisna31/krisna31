@@ -9,7 +9,7 @@ I live in Palembang, Indonesia. I've been learning to code for 1 years, after un
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [MyPortfolio](http://krisna31.github.io)
 * ✉️  You can contact me at [krisnaaaputraaa@gmail.com](mailto:krisnaaaputraaa@gmail.com )
-* 🧠  I'm learning React and Kotlin
+* 🧠  I'm learning React and Flutter
 * 🤝  I'm open to collaborating on Open Source Project
 
 ### Skills
