@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Jelvin Krisna Putra</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate programmer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisna31&label=Profile%20views&color=0e75b6&style=flat" alt="krisna31" /> </p>
 
@@ -31,3 +31,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krisna31&" alt="krisna31" /></p>
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/krisna31)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=krisna31)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisna31)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=krisna31&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=krisna31)  
+
+![GitHub metrics](https://metrics.lecoq.io/krisna31)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=krisna31)  
+
+![Profile views](https://gpvc.arturio.dev/krisna31)  
