@@ -27,15 +27,6 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=krisna31)  
 
-<b>Top Repositories</b>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krisna31&show_icons=true&locale=en&layout=compact" alt="krisna31" /></p>
-<a href="https://github.com/krisna31/sinodes-tailwind" align="left">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krisna31&repo=sinodes-tailwind&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/krisna31/space-x-api" align="left">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krisna31&repo=space-x-api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-</a>
-
-
 <h3 align="left">Support:</h3>
 
 <p><a href="https://www.buymeacoffee.com/krisna31"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="krisna31" /></a></p><br><br>
