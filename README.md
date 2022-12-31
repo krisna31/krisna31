@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Jelvin Krisna Putra</h1>
 <h3 align="center">A passionate programmer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krisna31&label=Profile%20views&color=0e75b6&style=flat" alt="krisna31" /> </p>
+![Profile views](https://gpvc.arturio.dev/krisna31)  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krisna31" alt="krisna31" /></a> </p>
 
@@ -31,8 +31,6 @@
 ![GitHub metrics](https://metrics.lecoq.io/krisna31)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=krisna31)  
-
-![Profile views](https://gpvc.arturio.dev/krisna31)  
 
 <h3 align="left">Support:</h3>
 
