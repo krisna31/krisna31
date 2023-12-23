@@ -5,7 +5,7 @@ A passionate programmer from Indonesia
 --------------------------------------
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [This Link](http://krisna31.github.io/)
+* 🖥️  See my portfolio at [This Link](http://k31.my.id/)
 * ✉️  You can contact me at [krisnaaaputraaa@gmail.com](mailto:krisnaaaputraaa@gmail.com)
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on Laravel
